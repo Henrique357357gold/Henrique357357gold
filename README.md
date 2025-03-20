@@ -2,6 +2,9 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (P-Tech IBM), apaixonado por tecnologia e sempre em busca de novos desafios.
 
+![image](https://github.com/user-attachments/assets/3ce8f98f-dbf5-41d3-8a62-a95739ed8bde)
+
+
 ## 💻 Experiências e Habilidades
 
 - **Linguagens & Tecnologias:**  

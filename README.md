@@ -1,4 +1,4 @@
-# Olá, eu sou Henrique da Silva Machado! 👋
+# Olá, eu sou Henrique Machado! 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (P-Tech IBM), apaixonado por tecnologia e sempre em busca de novos desafios.
 
